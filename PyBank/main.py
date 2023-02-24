@@ -49,6 +49,7 @@ Greatest Decrease in Profits: {month_min} ${min_increase}
 """
 )
 
+# create a txt file to store the results    
 output_analysis = os.path.join("PyBank", "analysis", "results.txt")
 
 with open(output_analysis,'w') as analysis:
