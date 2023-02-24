@@ -52,7 +52,7 @@ Raymon Anthony Doane: {perc_raymon}% {votes_raymon}
 Winner: {winner}
 -------------------------
 """)
-
+# create a txt file to store the results    
     
 output_analysis = os.path.join("PyPull", "analysis", "results.txt")
 
