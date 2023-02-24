@@ -6,6 +6,7 @@ This project will analyse two datasets using python.
 The main reason is to read csv files and write txt files using python. And we will go analyse the data to get the answers for the following questions:
 
 First data set:
+
 -The total number of months included in the dataset
 
 -The net total amount of "Profit/Losses" over the entire period
@@ -17,6 +18,7 @@ First data set:
 -The greatest decrease in profits (date and amount) over the entire period
 
 Second data set: 
+
 -The total number of votes cast
 
 -A complete list of candidates who received votes
