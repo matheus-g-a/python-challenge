@@ -54,7 +54,7 @@ To make sure that the program will work you have to install Python 3.8.8 or plus
 
 ## Usage
 
-This project shoulb the executed by VS code or similar software.
+This project should be executed by VS code or similar software.
 
 ---
 
